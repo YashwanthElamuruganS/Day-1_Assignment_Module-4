@@ -1,0 +1,45 @@
+body {
+  background-color: #e8edf5;
+  font-family: Arial;
+}
+
+.dashboard {
+  text-align: center;
+  margin: 100px auto;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+table {
+  margin: 30px auto;
+  width: 70%;
+  background-color: white;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 15px;
+  border: 1px solid gray;
+}
+
+th {
+  background-color: #2563eb;
+  color: white;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
